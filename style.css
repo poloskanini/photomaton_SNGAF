@@ -49,6 +49,7 @@ html {
 /* LOGO */
 img.main-logo {
   max-width: 17rem;
+  height: auto;
 }
 
 /* HEADING */
