@@ -46,6 +46,10 @@ html {
   right: 0;
 }
 
+/* LOGO */
+.main-logo {
+  max-width: 20vh;
+}
 /* HEADING */
 .heading {
   display: flex;
