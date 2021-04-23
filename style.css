@@ -32,6 +32,7 @@ html {
   overflow-x: hidden;
   background-image: url(images/poster.png);
   background-size: cover;
+  background-image: linear-gradient(to top, #fff1eb 0%, #70bfe4 100%);
 }
 
 .container video {
