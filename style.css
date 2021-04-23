@@ -41,8 +41,8 @@ html {
 
 /* LOGO */
 img.main-logo {
-  width: 200px;
-  height: auto;
+  max-width: 200px;
+  height: 100%;
   z-index: 10;
 }
 
