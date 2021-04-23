@@ -158,7 +158,7 @@ html {
   -moz-transform: rotate(1deg);
   -o-transform: rotate(1deg);
   transform: rotate(1deg);
-  filter: sepia(40%);
+  filter: sepia(50%);
 }
 
 .polaroid-item-bis:hover {
@@ -172,7 +172,7 @@ html {
   -moz-transform: rotate(-1deg);
   -o-transform: rotate(-1deg);
   transform: rotate(-1deg);
-  filter: sepia(40%);
+  filter: sepia(50%);
 }
 
 /* WRITTEN CONTENT */
