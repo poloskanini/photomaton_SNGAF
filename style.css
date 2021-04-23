@@ -50,10 +50,7 @@ img.main-logo {
 .heading {
   display: flex;
   justify-content: center;
-  width: 100%;
-  font-size: 2.4rem;
   margin: 2rem 0;
-  position: relative;
 }
 
 /* POLAROIDS */
