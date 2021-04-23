@@ -47,9 +47,10 @@ html {
 }
 
 /* LOGO */
-.main-logo {
-  max-width: 20vh;
+img.main-logo {
+  max-width: 17rem;
 }
+
 /* HEADING */
 .heading {
   display: flex;
@@ -138,7 +139,6 @@ html {
   filter: alpha(opacity=85);
 }
 
-
 /* PIRATE */
 .pirate img {
   max-width: 180px;
@@ -221,5 +221,5 @@ footer {
   bottom: 0;
   right: 0;
   z-index: 3;
-  padding: 2rem;
+  padding: 3rem;
 }
