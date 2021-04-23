@@ -60,6 +60,7 @@ html {
   align-items: center;
   margin: 2rem 0;
   height: auto;
+  z-index: 10;
 }
 
 /* POLAROIDS */
