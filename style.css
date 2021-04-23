@@ -48,8 +48,9 @@ html {
 
 /* LOGO */
 img.main-logo {
-  max-width: 17rem;
+  width: 17rem;
   height: auto;
+  z-index: 10;
 }
 
 /* HEADING */
