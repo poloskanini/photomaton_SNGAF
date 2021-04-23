@@ -50,6 +50,8 @@ html {
 .heading {
   display: flex;
   justify-content: center;
+  flex-direction: column;
+  align-items: center;
   margin: 2rem 0;
   height: auto;
 }
