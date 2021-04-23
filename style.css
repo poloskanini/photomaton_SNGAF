@@ -4,6 +4,11 @@
   padding: 0;
 }
 
+@font-face {
+  font-family: "Breamcatcher";
+  src: url("fonts/breamcatcher/breamcatcher.ttf");
+  }
+
 body,
 html {
   font-size: 16px;
@@ -25,6 +30,8 @@ html {
   flex-direction: column;
   justify-content: center;
   overflow-x: hidden;
+  background-image: url(images/poster.png);
+  background-size: cover;
 }
 
 .container video {
